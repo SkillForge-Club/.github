@@ -1,4 +1,4 @@
-[Email Us](../images/cover.png)
+![Logo](../images/cover.png)
 
 # Club of SkillForge
 
@@ -29,6 +29,7 @@ The **Club of SkillForge** is a community dedicated to helping you develop the s
 Stay connected with us:  
 - [Instagram](https://instagram.com/skillforge.club)  
 - [Email Us](mailto:skillforgeclub@gmail.com)    
+- [Telegram Channel](https://t.me/skillforgeclub)    
 
 ---
 
